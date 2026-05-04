@@ -216,3 +216,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Docker
+*.tar
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# IDE
+.vscode/
+.idea/
